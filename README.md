@@ -42,12 +42,12 @@ measured weight exceeds or falls below predefined thresholds.
 
 ## Pin Connections
 
-  Component    ESP32 Pin
+  |Component   | ESP32 Pin|
   ------------ -----------
-  HX711 DOUT   GPIO 4
-  HX711 SCK    GPIO 5
-  Green LED    GPIO 18
-  Red LED      GPIO 19
+  |HX711 DOUT |  GPIO 4|
+  |HX711 SCK  |  GPIO 5|
+  |Green LED  |  GPIO 18|
+  |Red LED   |  GPIO 19|
 
 ## System Workflow
 
