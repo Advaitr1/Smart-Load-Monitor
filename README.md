@@ -14,7 +14,7 @@ This project simulates a cloud-connected Smart Load Monitoring System using an *
 - Simulated using Wokwi
 
 # Project Demo:
-[Project Demo Video] (https://youtu.be/gdKulwvclWo?si=E_U60o_-MZ2DNqRK)
+https://youtu.be/gdKulwvclWo?si=E_U60o_-MZ2DNqRK
 
 ## Hardware Requirements
 - ESP32 Development Board
