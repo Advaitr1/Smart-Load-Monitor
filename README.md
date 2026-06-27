@@ -13,6 +13,9 @@ This project simulates a cloud-connected Smart Load Monitoring System using an *
 - Red LED indicates alert condition
 - Simulated using Wokwi
 
+# Project Demo:
+[Project Demo Video] (https://youtu.be/gdKulwvclWo?si=E_U60o_-MZ2DNqRK)
+
 ## Hardware Requirements
 - ESP32 Development Board
 - HX711 Load Cell Amplifier
