@@ -56,9 +56,9 @@ https://youtu.be/gdKulwvclWo?si=E_U60o_-MZ2DNqRK
 
 ```text
 Smart-Load-Monitoring/
-├── Smart_Load_Monitoring.ino
+├── screenshots/
 ├── README.md
 ├── diagram.json
-├── screenshots/
-├── report.docx
-└── demo-video-link.txt
+├── libraries.txt
+├── sketch.ino
+└── wokwi-project.txt
